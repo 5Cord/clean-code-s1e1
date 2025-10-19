@@ -147,7 +147,8 @@ body {
 
 /* Completed */
 .todo-app__list--completed .todo-app__label {
-    text-decoration: line-through color: #888;
+    text-decoration: line-through;
+    color: #888;
 }
 
 /* Edit Mode */
